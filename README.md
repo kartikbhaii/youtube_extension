@@ -12,11 +12,3 @@
 ✅ **Lightweight & Easy to Use**: No extra configurations needed—just install & use!  
 
 ---
-
-## 📦 Installation Guide  
-
-### 🔹 **Load the Extension in Chrome**  
-1. **Download or Clone the Repository**  
-   ```sh
-   git clone https://github.com/your-username/youtube-auto-pause.git
-   cd youtube-auto-pause
